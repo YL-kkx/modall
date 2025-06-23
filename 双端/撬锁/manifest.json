@@ -1,0 +1,24 @@
+{
+    "author": "",
+    "files": [
+        {
+            "fileID": 3568569,
+            "projectID": 253456,
+            "required": false
+        }
+    ],
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
+    "minecraft": {
+        "modLoaders": [
+            {
+                "id": "forge-14.23.5.2860",
+                "primary": true
+            }
+        ],
+        "version": "1.12.2"
+    },
+    "name": "md导出",
+    "overrides": "overrides",
+    "version": "1.0.0"
+}
